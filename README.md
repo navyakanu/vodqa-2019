@@ -1,3 +1,23 @@
+
+Dependencies: 
+
+nvm
+node
+yarn
+
+Install all using homebrew or any other way and make sure the below commands work
+
+nvm --version
+node --version
+
+cd vodqa-2019
+yarn install
+yarn start
+yarn test
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
